@@ -1,2 +1,3 @@
 # Task-1
-In this task 
+Built a complete data preprocessing pipeline in Python covering end-to-end data cleaning and preparation. Loaded and explored the dataset by analyzing its shape, column types, and statistical summary. Handled missing values using KNN Imputation for intelligent, neighbor-based filling. Detected and treated outliers using IQR-based Winsorization to cap extreme values without removing data. Engineered 6 new meaningful features to enrich the dataset for downstream modeling. Finally, exported the fully cleaned and transformed dataset to Excel for further use.
+Tools & Libraries used: Python, Pandas, NumPy, Scikit-learn (KNNImputer)
